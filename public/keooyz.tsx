@@ -1,0 +1,8 @@
+// package.json
+{{
+    "name": "tkfn9gxs",
+    "version": "1.1.0",
+    "scripts": {{
+        "start": "node index.js"
+    }}
+}}
